@@ -1,0 +1,115 @@
+body {
+	background-image:  url(../imagens/camuflado.jpg);
+}
+
+p {
+	background-color: #ffffff;
+}
+
+p#a{
+	text-align: justify;
+}
+
+p#q{
+	text-align: justify;
+
+}
+
+p#sv{
+	text-align: justify;
+}
+
+p#tela {
+	text-indent: 50px;
+	padding: 10px 10px 10px 10px;
+	text-align: justify;
+	margin-bottom: -10px;
+	margin-top: -10px;
+}
+
+p#espaco {
+	text-indent: 50px;
+	padding: 10px 10px 10px 10px;
+	text-align: justify;
+}
+
+a#tabela {
+	color: #000000;
+}
+
+h2#inicio {
+	color: #ffffff;
+	padding: 10px;
+}
+
+#div1 h1, #div2 h1{
+	color: blue;
+}
+
+table#tabelaspec {
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #dddddd;
+}
+
+table td{
+	border: 1px solid;
+}
+
+div#tabela {
+	display: block;
+}
+
+div caption {
+	position: relative;
+	text-align: center;
+}
+
+.menu{
+	list-style-type: none;
+	float: right;
+}
+
+.menu li{
+	margin: 20px;
+	float: left;
+}
+
+label#cabec {
+	color: #ffffff;
+}
+
+#rodape{
+	margin-top: 50px;
+	text-align: center;	
+}
+
+div#img {
+	display: block;
+}
+/*FOTO INICIO*/
+figure#img1 {
+	position: relative;
+	margin: 20px;
+	margin-bottom: 30px;
+	left: 100px;
+}
+
+figure#img2 {
+	position: relative;
+	margin-top: 30px;
+	margin-bottom: -30px;
+	left: 200px;
+}
+
+/*FOTO SOBRE*/
+
+figure#img {
+	position: relative;
+	margin: 10px;
+	margin-bottom: 20px;
+	left: 350px;
+} 
+
+
+
